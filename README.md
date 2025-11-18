@@ -20,22 +20,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Desafio-de-projeto-DIO
+# Vídeo gerado por IA ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Foi criado um vídeo me apresentando como acadêmica.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+D-ID
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi feito a escolha da imagem, depois adicionado na plataforma D-ID,
+feito a descrição de cada frame
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Os resultados são satisfatórios para a primeira experiencia com a plataforma
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+A utilização da plataforma é surpreendente, é muito bom aprender sobre o uso de IA, e saber que podemos fazer várias 
+coisas para melhorar o nosso aprendizado.
 ```
 
 ### Exemplos e Insigths
